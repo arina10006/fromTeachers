@@ -10,11 +10,11 @@ namespace happy_ticket
     {
         static void Main(string[] args)
         {
-            double a = 1;
+            double ticket = 123321;
 
             for (int i = 0; i < 10; i++)
             {
-                a++;
+                ticket++;
             }
         }
     }
